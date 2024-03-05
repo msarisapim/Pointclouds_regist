@@ -6,3 +6,9 @@ This project focuses on enhancing point cloud registration by integrating spatia
 ## Dataset
 - RGB-D Object Dataset : https://rgbd-dataset.cs.washington.edu/dataset/rgbd-dataset/
 - RGB-D Data from Intel Realsense depth camera L515 and D435i
+
+## RGB-D Data acquisition from camera
+- **RS_data_acquisition.ipynb**
+
+## Point cloud registration
+- **Same-source registration.ipynb**
