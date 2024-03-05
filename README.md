@@ -1,7 +1,8 @@
 # Point Cloud Registration with Spatial and Color Data
 
 ## Overview
-This project focuses on enhancing point cloud registration by integrating spatial (geometric) and color (intensity) information for improved alignment accuracy. Utilizing both spatial and color attributes allows for more precise alignments, beneficial in datasets with distinct color patterns.
+
+This project advances point cloud registration by combining spatial and color information, enhancing alignment accuracy, especially in color-rich datasets. It includes RGB-D data acquisition from cameras, notebooks for same-source registration, and experiments with SIFT for point cloud registration. The project utilizes the RGB-D Object Dataset and data from Intel Realsense cameras, showcasing methodologies like SIFT and comparing results with the FPFH method for precise and robust point cloud alignment.
 
 ## RGB-D Data acquisition from camera
 - **RS_data_acquisition.ipynb**
