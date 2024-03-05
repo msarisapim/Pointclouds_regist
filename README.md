@@ -4,7 +4,7 @@
 This project focuses on enhancing point cloud registration by integrating spatial (geometric) and color (intensity) information for improved alignment accuracy. Utilizing both spatial and color attributes allows for more precise alignments, beneficial in datasets with distinct color patterns.
 
 
-## Methods
+## Methods (Same-source registration.ipynb)
 - Colored ICP (Iterative Closest Point): Extends traditional ICP by incorporating color data.
 - Generalized ICP (GICP) with Color: Integrates color information into the GICP framework.
 - Joint Color and Depth (JCD) Descriptors: Utilizes a combination of color and depth data for registration.
