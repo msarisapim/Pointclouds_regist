@@ -8,7 +8,7 @@ This project focuses on enhancing point cloud registration by integrating spatia
 
 ## Point cloud registration
 - **Same-source registration.ipynb**
-- ** Experiment on Point cloud registration using SIFT**
+- **Experiment on Point cloud registration using SIFT**
   - Experiment on dataset: Arisa_PCRegist_SIFT-dataloop.ipynb
   - Compare transformation result with fpfh method: Arisa_PCRegist_SIFT-checkloopresults.ipynb
 
